@@ -79,6 +79,9 @@ bool ReplaceDataTableRow(DataTable, RowName, RowData)
 
 ### Basic Struct Serialization
 
+<img width="806" height="316" alt="image" src="https://github.com/user-attachments/assets/db5fdba9-4337-45f8-a953-4777f5df504a" />
+
+
 1. **Create a Blueprint Struct** (e.g., `PlayerData`):
    ```
    PlayerData:
